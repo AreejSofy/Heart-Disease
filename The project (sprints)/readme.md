@@ -1,6 +1,6 @@
 # Health Data Streamlit App
 
-## 📌 Overview
+## Overview
 This project provides an end-to-end pipeline for health data analysis using:
 - Data preprocessing scripts
 - Trained machine learning models
@@ -9,7 +9,7 @@ This project provides an end-to-end pipeline for health data analysis using:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 PythonProject/
 │── app.py                # Streamlit UI
@@ -24,3 +24,4 @@ PythonProject/
 ├── notebooks/            # Jupyter notebooks
 │     ├── step1.ipynb
 │     └── step2.ipynb
+
